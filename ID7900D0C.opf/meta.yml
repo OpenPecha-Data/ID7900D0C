@@ -1,0 +1,184 @@
+id: ID7900D0C
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:25:15.032281'
+last_modified: '2022-06-11T13:25:15.032287'
+parser: null
+source_metadata:
+  title: Words of the Buddha
+  language: pt
+  description: 'A selection of works by the Buddha himself, many of which feature
+    in the Kangyur (bka'' ''gyur), the Tibetan canonical collection of the Buddha''s
+    Word:'
+  volume:
+    f7AE1:
+      title: The Auspicious Verses of the Seven Successive Buddhas
+      base_file: f7AE1.txt
+      order: 1
+      parent: Auspiciousness
+    f72CC:
+      title: The Dhāraṇī of Amitāyus
+      base_file: f72CC.txt
+      order: 2
+      parent: Dhāraṇī
+    fFE10:
+      title: The Dhāraṇī of Glorious Vajraṇakhī
+      base_file: fFE10.txt
+      order: 3
+      parent: Dhāraṇī
+    fB9CA:
+      title: The Dhāraṇī of Stream of Wealth (Vasudhārā)
+      base_file: fB9CA.txt
+      order: 4
+      parent: Dhāraṇī
+    f980B:
+      title: The Noble Dhāraṇī of The Supreme Accomplishment of Sitātapatrā Born from
+        the Tathāgata’s Uṣṇīṣa, the Great Invincible Dispeller
+      base_file: f980B.txt
+      order: 5
+      parent: Dhāraṇī
+    fBFA7:
+      title: The Noble Essence of Dependent Origination
+      base_file: fBFA7.txt
+      order: 6
+      parent: Dhāraṇī
+    f75F2:
+      title: The Noble Incantation entitled ‘The Rituals for the Blue-Clad Vajrapāṇi’
+      base_file: f75F2.txt
+      order: 7
+      parent: Dhāraṇī
+    f4E64:
+      title: The Noble Mārīcī Dhāraṇī
+      base_file: f4E64.txt
+      order: 8
+      parent: Dhāraṇī
+    f3379:
+      title: The ‘Chinese’ Practice of Averting Periodic Obstacles
+      base_file: f3379.txt
+      order: 9
+      parent: Dhāraṇī
+    fC121:
+      title: Vajravidāraṇa Dhāraṇī (Nyingma Version)
+      base_file: fC121.txt
+      order: 10
+      parent: Dhāraṇī
+    f93E7:
+      title: Prayer for the Future of the Dharma
+      base_file: f93E7.txt
+      order: 11
+      parent: Prayers
+    f0F9D:
+      title: 'The Clarifying Light: A Prophecy of the Future'
+      base_file: f0F9D.txt
+      order: 12
+      parent: Prophecy
+    f722C:
+      title: The Song of the Vajra
+      base_file: f722C.txt
+      order: 13
+      parent: Songs
+    fD4E6:
+      title: Maitreya's Aspiration
+      base_file: fD4E6.txt
+      order: 14
+      parent: Sūtra
+    fD473:
+      title: The Bodhisattva’s Confession of Downfalls (Nyingma Version)
+      base_file: fD473.txt
+      order: 15
+      parent: Sūtra
+    fCC6E:
+      title: The Heart of the Transcendent Perfection of Wisdom
+      base_file: fCC6E.txt
+      order: 16
+      parent: Sūtra
+    f5B46:
+      title: The Heart of the Transcendent Perfection of Wisdom
+      base_file: f5B46.txt
+      order: 17
+      parent: Sūtra
+    fD446:
+      title: 'The King of Aspiration Prayers: Samantabhadra''s “Aspiration to Good
+        Actions” (Zangchö Mönlam)'
+      base_file: fD446.txt
+      order: 18
+      parent: Sūtra
+    f62C6:
+      title: The Noble Mahāyāna Sūtra entitled The Wisdom of the Hour of Death
+      base_file: f62C6.txt
+      order: 19
+      parent: Sūtra
+    f2F8E:
+      title: The Noble Sūtra Teaching the Eleven Perceptions
+      base_file: f2F8E.txt
+      order: 20
+      parent: Sūtra
+    fECFC:
+      title: The Noble Sūtra of Recalling the Three Jewels
+      base_file: fECFC.txt
+      order: 21
+      parent: Sūtra
+    f7901:
+      title: The Noble Sūtra of the Teaching on the Four Factors
+      base_file: f7901.txt
+      order: 22
+      parent: Sūtra
+    f49CC:
+      title: The Perfection of Wisdom, Mother of All Tathāgatas, ‘In One Syllable’
+      base_file: f49CC.txt
+      order: 23
+      parent: Sūtra
+    f0C51:
+      title: The Sūtra of Boundless Life and Wisdom
+      base_file: f0C51.txt
+      order: 24
+      parent: Sūtra
+    f155E:
+      title: A Section of the Vajrakīla Root Tantra
+      base_file: f155E.txt
+      order: 25
+      parent: Tantra
+    f4303:
+      title: Chanting the Names of Noble Mañjuśrī
+      base_file: f4303.txt
+      order: 26
+      parent: Tantra
+    fF011:
+      title: Daily Confession (from the Vajrapañjara Tantra)
+      base_file: fF011.txt
+      order: 27
+      parent: Tantra
+    f78F1:
+      title: The Lament of Rudra
+      base_file: f78F1.txt
+      order: 28
+      parent: Tantra
+    f89C0:
+      title: The Praise to Tārā with Twenty-One Verses of Homage and The Excellent
+        Benefits of Reciting the Praise
+      base_file: f89C0.txt
+      order: 29
+      parent: Tantra
+    f2F4B:
+      title: The Twenty-Eight Commitments
+      base_file: f2F4B.txt
+      order: 30
+      parent: Tantra
+    f47C5:
+      title: The Ultimate Inexpressible Confession (Yeshe Kuchokma)
+      base_file: f47C5.txt
+      order: 31
+      parent: Tantra
+    f8EA8:
+      title: Verses of Confession 'Düsum Deshekma'
+      base_file: f8EA8.txt
+      order: 32
+      parent: Tantra
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
